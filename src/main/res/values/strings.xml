@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="login">login</string>
+    <string name="studentId">Id:</string>
+    <string name="password">code:</string>
+    <string name="pId">please input a Id</string>
+    <string name="pcd">please input a code</string>
+    <string name="CorrectAnswer">CorrectAnswer</string>
+    <string name="WrongAnswer">WrongAnswer</string>
+    <string name="show">show</string>
+    <string name="NoLast">NoLast</string>
+    <string name="NoNext">NoNext</string>
+    <string name="True">true</string>
+    <string name="False">false</string>
+    <string name="last">last</string>
+    <string name="next">next</string>
+    <string name="score">score:</string>
+</resources>
